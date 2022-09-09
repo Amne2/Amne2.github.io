@@ -1,0 +1,57 @@
+h3{
+	color:pink;
+	font-size: 34px; 
+}
+h4{
+	color:pink;
+	font-size:34px;
+}
+h5{
+	color:#2CB34A;
+	font-size: 34px;
+}
+h6{
+	color:pink;
+	font-size: 34px;
+	font-family:cursive;
+}
+
+ /*p{
+	color:#059862;
+	font-size:34px;
+	background-color:#2CB2B0;
+    border:1px solid black;
+	border-style:dotted;
+    border-color:blue;
+    border-width: 5px;
+	margin-top:20px;
+	margin-bottom: 30px;
+	margin margin-right:50px;
+	margin-left:50px; 
+	padding-top: 25px;
+	padding-bottom: 40px;
+	padding-right: 75px;
+	padding-left: 75px; or
+	padding:25px 75px 40px;
+}*/
+
+
+	.introduction{
+		color:green;
+		border-style: double;
+		font-family:cursive;
+		font-size: 34px;
+	}
+	.lorem {
+		color:pink;
+	    border-style:solid;
+		font-family:serif;
+		font-size: 34px;
+	}
+	 .Conclusion{
+	 	color:purple;
+	 	border-style: dotted;
+	    font-family: 'Dancing Script', cursive;
+	    font-size: 34px;
+
+	 }
